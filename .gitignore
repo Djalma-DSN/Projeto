@@ -135,3 +135,10 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+# MyAdiotiionals
+__pycache__
+local_sttings.py
+_local_sttings
+static/
+# Add again for course purpose
+!db.sqlite3
